@@ -1,2 +1,2 @@
 # gcp-logger-helper
-Google cloud  logging implementation for python
+Google cloud logging implementation for python
