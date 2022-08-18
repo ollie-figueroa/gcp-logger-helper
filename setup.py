@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="gcp-logger-helper",
-    version="0.0.3",
+    version="0.0.4",
     author="Ollie Figueroa",
     author_email="olafi9310@gmail.com",
     description="Google cloud logging implementation for python",
